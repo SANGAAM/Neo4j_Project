@@ -15,12 +15,12 @@ This project is a chatbot application that leverages Neo4j, a graph database, an
 
 **Technologies Used:**
 
-**Node.js:** Backend server environment for running the application.
-**Express.js:** Web framework for building RESTful APIs.
-**Neo4j:** Graph database for storing and querying structured data.
-**OpenAI API:** Natural language processing service for generating responses.
-**Axios:** HTTP client for making API requests.
-**dotenv:** Library for loading environment variables from a .env file.
+1) **Node.js:** Backend server environment for running the application.
+2) **Express.js:** Web framework for building RESTful APIs.
+3) **Neo4j:** Graph database for storing and querying structured data.
+4) **OpenAI API:** Natural language processing service for generating responses.
+5) **Axios:** HTTP client for making API requests.
+6) **dotenv:** Library for loading environment variables from a .env file.
 
 **Usage:**
 
