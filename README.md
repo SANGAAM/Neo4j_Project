@@ -1,5 +1,6 @@
-![pic](https://github.com/SANGAAM/Neo4j_Project/assets/96041004/325c655d-78c9-4181-9349-1f403a9bbe43)
-![vscd](https://github.com/SANGAAM/Neo4j_Project/assets/96041004/d2b5740a-da6a-4dc6-9eda-6b945c3f12b4)
+![tsk](https://github.com/SANGAAM/Neo4j_Project/assets/96041004/10045ebd-30af-42f9-949e-220df38ed495)
+
+![vscod](https://github.com/SANGAAM/Neo4j_Project/assets/96041004/f3ec1b8d-947c-44dc-8342-6bbf300ddeea)
 
 **Project Name: Chatbot with Neo4j and OpenAI Integration**
 
